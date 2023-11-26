@@ -2,18 +2,18 @@
 
 1. Copy the contents of `nanorc` here on github.
 
-2. Determin what at what access level you want to edit the config:
-  a. If you want to override just the settings for your user account (recommended):
-      Remove any potential old nanorc file and create a new one
-          - `rm ~/.nanorc; nano ~/.nanorc`
-  b. If you have root access and want to override the settings globally (not recommended on multi-user systems):
-      Remove the old nanorc file and create a new one:
-          - `sudo rm /etc/nanorc; nano /etc/nanorc`
+2. Determin at what access level you want to edit the config:
+    - If you want to override just the settings for your user account (recommended):
+        Remove any potential old nanorc file and create a new one
+        - `rm ~/.nanorc; nano ~/.nanorc`
+    - If you have root access and want to override the settings globally (not recommended on multi-user systems):
+        Remove the old nanorc file and create a new one:
+        - `sudo rm /etc/nanorc; nano /etc/nanorc`
   
 3. Paste the contents
-    a. Are you running nano natively (or in a vm) with a gui?
+    - Are you running nano natively (or in a vm) with a gui?
         - `alt+u` (defualt paste)
-    b. Are you connected through ssh?
+    - Are you connected through ssh?
         - `right click`
 
 4. Save the file:
