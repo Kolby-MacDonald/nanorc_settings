@@ -28,6 +28,7 @@
       - `^` is `ctrl`
       - `M` is `alt`
       - `mouse_scroll_up`, `mouse_scroll_down`, and `mouse_cursor_click` work now, however, drag clicking might not.
+      - Selection delete `alt+del`
       - The file will autosave on exit, you can disable that if you would like.
       - Mass comment with `shift+arrow` then (`alt+3`)
       - Word delete back with 
