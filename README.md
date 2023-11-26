@@ -1,4 +1,4 @@
-* INSTRUCTIONS *
+#INSTRUCTIONS
 
 1. Copy the contents of `nanorc` here on github.
 
