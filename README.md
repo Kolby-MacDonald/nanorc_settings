@@ -12,7 +12,7 @@
   
 3. Paste the contents
     - Are you running nano natively (or in a vm) with a gui?
-        - `alt+u` (defualt paste)
+        - `alt+u` (default paste)
     - Are you connected through ssh?
         - `right click`
 
@@ -20,7 +20,7 @@
     - `ctrl+o` (as in the letter "o" is default save)
 
 5. Exit the file:
-    - `ctrl+x` (is defualt)
+    - `ctrl+x` (is default)
 
 6. Go test out your new settings and make sure to use the help guide at the bottom of nano to better understand the commands.
     - `ctrl+h` will bring up a help menu for commands. I highly recommend you read these.
